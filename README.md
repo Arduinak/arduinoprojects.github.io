@@ -14,7 +14,7 @@ Ahoj! 😊 Som 11-ročný chlapec, ktorý miluje programovanie a neustále sa u�
 Všetky svoje projekty zverejňujem na svojom YouTube kanáli 🎥 a source kódy nájdete na mojom GitHub profile. 👨‍💻📂 Ak máš rád technológie a programovanie, určite sa pripoj k mojej ceste! 🚀
 
 Sleduj ma na:
-📺 [YouTube]
-💻 [GitHub]
+📺 Youtube    https://www.youtube.com/@Arduinak
+
 
 Teším sa na tvoju podporu a feedback! 😄👍
